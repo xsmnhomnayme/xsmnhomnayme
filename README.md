@@ -8,7 +8,7 @@
 
   <p>
     Website:
-    <a href="https://xsmnhomnay.me/" target="_blank">
+    <a rel="dofollow" href="https://xsmnhomnay.me/" target="_blank">
       https://xsmnhomnay.me/
     </a>
   </p>
@@ -28,7 +28,7 @@
 
   <p>
     👉 Xem kết quả:
-    <a href="https://xsmnhomnay.me/xo-so-mien-nam/" target="_blank">
+    <a rel="dofollow" href="https://xsmnhomnay.me/xo-so-mien-nam/" target="_blank">
       Xổ Số Miền Nam
     </a>
   </p>
